@@ -1,0 +1,52 @@
+b{
+	font-weight: 600;
+}
+
+body{
+	background-color: #000;
+}
+
+#hero-half{
+	position: relative;
+	height: 100%;
+	width: 40%;	
+	position: relative;
+	left: 8%;
+}
+
+#hero-img{
+	height: 80%;
+	position: absolute;
+	right: 8%;
+	top: 10%;
+}
+
+h1, #hero-desc{
+	color: #fff;
+	box-sizing: border-box;
+}
+
+h1{
+	padding-top: 190px;
+	font-size: 90pt;
+	font-weight: 700;
+}
+
+h1 span{
+	color: #ff404b;
+}
+
+#hero-desc{
+	color: rgba(255,255,255,0.8);
+	font-size: 16pt;
+}
+
+#hero-explore{
+	display: block;
+	margin-top: 50px;
+}
+
+#hero-explore:hover{
+	background-color: #fff;
+	color: #333;
+}

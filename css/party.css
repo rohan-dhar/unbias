@@ -1,0 +1,85 @@
+body{
+	background-image: linear-gradient(-135deg, #5e5bff, #7db2ff);
+	background-attachment: fixed;
+	background-repeat: no-repeat;	
+}
+
+.event{
+	margin-top: 40px;
+	margin: initial;
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+.event:last-of-type{
+	margin-bottom: 40px;
+}
+
+#hero{
+	height: 37%;
+	
+}
+
+h1{
+	font-size: 50pt;
+	color: #fff;
+	font-weight: 700;
+	font-family: futura;
+	margin-left: 100px;
+	padding-top: 120px;
+}
+
+#desc{
+	margin-left: 100px;
+	font-weight: 600;
+	font-size: 30pt;
+	margin-top: -10px;
+	color: rgba(0,0,0,0.4);
+}
+
+#info-cont{
+	position: fixed;
+	height: 85%;
+	top: 7.5%;
+	right: 30px;
+	width: 320px;
+	background-color: #fff;
+	border-radius: 20px;
+	box-shadow: 0px 0px 9px 1px rgba(0,0,0,0.07);
+}
+
+#info-cont img{
+	display: block;
+	margin: auto;
+	height: 180px;
+	width: 180px;
+	border-radius: 100%;
+	margin-top: 50px;
+}
+
+.party-info{
+	box-sizing: border-box;
+	padding-left: 25px;
+	padding-right: 25px;
+	margin-top: 5px;
+	font-size: 13pt;
+	font-weight: 500;
+	color: #333;
+}
+
+.party-name{
+	text-align: center;
+	margin-bottom: 20px;
+	margin-top: 25px;
+	font-size: 15pt;
+	font-weight: 600;
+}
+
+.party-label{
+	display: block;
+	font-size: 10pt;
+	font-weight: 700;
+	text-transform: uppercase;
+	color: #678be0;
+	margin-top: 15px;
+}

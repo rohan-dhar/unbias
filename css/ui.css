@@ -1,0 +1,31 @@
+a{
+	text-decoration: none;
+	color: inherit;
+}
+
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: transparent;
+	font-family: avenir next, sans-serif;
+}
+
+html, body{
+	height: 100%;	
+}
+
+.btn{
+	height: 55px;
+	min-width: 170px;
+	box-sizing: border-box;
+	padding-left: 10px;
+	padding-right: 10px;
+	color: #fff;
+	text-transform: uppercase;
+	font-weight: 600;
+	font-size: 10pt;
+	border: 3px solid #fff;
+	outline: none;
+	cursor: pointer;
+	transition: background-color 0.3s, color 0.3s;
+}
