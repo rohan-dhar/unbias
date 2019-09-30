@@ -12,10 +12,10 @@
 
 
 	// Database Settings
-	define('DB_NAME', 'byld');
-	define('DB_HOST', '127.0.0.1:8889');
-	define('DB_USER', 'root');
-	define('DB_PASS', 'root');
+	define('DB_NAME', 'DBNAME');
+	define('DB_HOST', 'HOST');
+	define('DB_USER', 'USERNAME');
+	define('DB_PASS', 'PASS');
 
 
 	// Error reporting settings	
